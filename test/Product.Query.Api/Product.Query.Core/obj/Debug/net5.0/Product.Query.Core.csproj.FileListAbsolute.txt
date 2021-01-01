@@ -1,0 +1,12 @@
+/Users/fredrikpalmer/git/private/project-templates/test/Product.Query.Api/Product.Query.Core/bin/Debug/net5.0/Product.Query.Core.deps.json
+/Users/fredrikpalmer/git/private/project-templates/test/Product.Query.Api/Product.Query.Core/bin/Debug/net5.0/Product.Query.Core.dll
+/Users/fredrikpalmer/git/private/project-templates/test/Product.Query.Api/Product.Query.Core/bin/Debug/net5.0/ref/Product.Query.Core.dll
+/Users/fredrikpalmer/git/private/project-templates/test/Product.Query.Api/Product.Query.Core/bin/Debug/net5.0/Product.Query.Core.pdb
+/Users/fredrikpalmer/git/private/project-templates/test/Product.Query.Api/Product.Query.Core/obj/Debug/net5.0/Product.Query.Core.csprojAssemblyReference.cache
+/Users/fredrikpalmer/git/private/project-templates/test/Product.Query.Api/Product.Query.Core/obj/Debug/net5.0/Product.Query.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fredrikpalmer/git/private/project-templates/test/Product.Query.Api/Product.Query.Core/obj/Debug/net5.0/Product.Query.Core.AssemblyInfoInputs.cache
+/Users/fredrikpalmer/git/private/project-templates/test/Product.Query.Api/Product.Query.Core/obj/Debug/net5.0/Product.Query.Core.AssemblyInfo.cs
+/Users/fredrikpalmer/git/private/project-templates/test/Product.Query.Api/Product.Query.Core/obj/Debug/net5.0/Product.Query.Core.csproj.CoreCompileInputs.cache
+/Users/fredrikpalmer/git/private/project-templates/test/Product.Query.Api/Product.Query.Core/obj/Debug/net5.0/Product.Query.Core.dll
+/Users/fredrikpalmer/git/private/project-templates/test/Product.Query.Api/Product.Query.Core/obj/Debug/net5.0/ref/Product.Query.Core.dll
+/Users/fredrikpalmer/git/private/project-templates/test/Product.Query.Api/Product.Query.Core/obj/Debug/net5.0/Product.Query.Core.pdb

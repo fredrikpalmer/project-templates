@@ -1,0 +1,29 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Fredrik Palmér",
+  "classifications": [ "Query" ], 
+  "name": "Query service",
+  "identity": "Domain.Query.Service",         
+  "groupIdentity":"Microservice",
+  "shortName": "query",
+  "tags": {
+    "language": "C#",
+    "type":"project"
+  },
+  "sourceName": "Domain",
+  "preferNameDirectory": true,
+  "symbols":{
+    "includetest": {
+        "type": "parameter",
+        "datatype": "bool",
+        "defaultValue": "true"
+    }
+  },
+  "sources":[{
+    "modifiers": [{
+      "condition": "(!includetest)",
+      "exclude": [ "Domain.Query.Api.Tests/**/*"]
+      }
+    ]
+  }]
+}
